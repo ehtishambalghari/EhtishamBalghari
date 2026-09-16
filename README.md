@@ -51,7 +51,7 @@ Calculator • Password Generator • Number Guessing Game • To-Do List -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-balghari/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/ehtishambalghari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=github&logoColor=white)](https://ehtishambalghari.github.io/portfolio/)
 
 ---
 
