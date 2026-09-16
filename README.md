@@ -34,7 +34,7 @@ I'm interested in **Software Development, AI, Web Technologies, and emerging tec
 ### 🚀 Projects
 
 🔹 **Personal Portfolio**  
-[Visit Website](https://ehtishambalghariofficial.github.io)
+[Visit Website](https://ehtishambalghari.github.io/portfolio/)
 
 <!--🔹 **Python Mini Projects**  
 Calculator • Password Generator • Number Guessing Game • To-Do List -->
